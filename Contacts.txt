@@ -1,0 +1,850 @@
+1	Defense	9	29	1	12:00:38 AM
+2	Pass	6	37	1	12:00:40 AM
+3	Spike	4	61	1	12:00:42 AM
+4	Spiked	4	29	1	12:00:43 AM
+5	Defense	13	43	1	12:00:47 AM
+6	Pass	6	78	1	12:00:49 AM
+7	Spike	2	75	1	12:00:51 AM
+8	Spiked	2	Side Out 3	1	12:00:52 AM
+9	Defense	2	64	1	12:00:56 AM
+10	Pass	6	59	1	12:00:58 AM
+11	Spike	4	80	1	12:00:59 AM
+12	Defense	4	70	1	12:01:00 AM
+13	Ground		32	1	12:01:01 AM
+14	Defense	18	39	1	12:01:17 AM
+15	Pass	2	Side Out 1	1	12:01:18 AM
+16	Ground		77	1	12:01:38 AM
+17	Defense	9	30	1	12:01:54 AM
+18	Pass	18	Side Out 1	1	12:01:57 AM
+19	Ground		75	1	12:01:58 AM
+20	Defense	18	31	1	12:02:13 AM
+21	Pass	6	76	1	12:02:15 AM
+22	Spike	4	81	1	12:02:16 AM
+23	Spiked	4	20	1	12:02:16 AM
+24	Defense	13	70	1	12:02:19 AM
+25	Spike	4	80	1	12:02:21 AM
+26	Spiked	4	42	1	12:02:22 AM
+27	Served	6	32	1	12:02:43 AM
+28	Ground		8	1	12:02:46 AM
+29	Defense	9	48	1	12:03:01 AM
+30	Pass	6	74	1	12:03:03 AM
+31	Spike	2	73	1	12:03:04 AM
+32	Spiked	2	70	1	12:03:06 AM
+33	Served	2	36	1	12:03:22 AM
+34	Defense	9	50	1	12:03:23 AM
+35	Pass	6	58	1	12:03:24 AM
+36	Spike	4	Side Out 3	1	12:03:26 AM
+37	Spiked	4	26	1	12:03:26 AM
+38	Defense	9	62	1	12:03:28 AM
+39	Pass	6	76	1	12:03:30 AM
+40	Spike	5	77	1	12:03:30 AM
+41	Spiked	5	53	1	12:03:32 AM
+42	Ground		24	1	12:03:35 AM
+43	Defense	13	21	1	12:03:56 AM
+44	Pass	6	50	1	12:03:58 AM
+45	Spike	18	80	1	12:04:00 AM
+46	Defense	18	80	1	12:04:00 AM
+47	Pass	13	53	1	12:04:02 AM
+48	Spike	4	75	1	12:04:04 AM
+49	Ground		56	1	12:04:04 AM
+50	Defense	5	68	1	12:04:21 AM
+51	Pass	4	20	1	12:04:22 AM
+52	Spike	5	52	1	12:04:24 AM
+53	Spiked	5	41	1	12:04:26 AM
+54	Defense	6	39	1	12:04:29 AM
+55	Pass	5	59	1	12:04:31 AM
+56	Spike	18	80	1	12:04:32 AM
+57	Spiked	18	27	1	12:04:33 AM
+58	Served	4	33	1	12:04:53 AM
+59	Served	4	15	1	12:05:12 AM
+60	Served	4	33	1	12:05:31 AM
+61	Defense	9	69	1	12:05:33 AM
+62	Pass	6	75	1	12:05:34 AM
+63	Spike	9	61	1	12:05:36 AM
+64	Spiked	9	17	1	12:05:38 AM
+65	Ground		2	1	12:05:41 AM
+66	Served	4	35	1	12:06:02 AM
+67	Defense	5	61	1	12:06:06 AM
+68	Pass	6	78	1	12:06:08 AM
+69	Spike	9	81	1	12:06:10 AM
+70	Spiked	9	Side Out 1	1	12:06:11 AM
+71	Served	4	30	1	12:06:28 AM
+72	Defense	18	74	1	12:06:32 AM
+73	Pass	6	47	1	12:06:34 AM
+74	Spike	18	64	1	12:06:36 AM
+75	Spiked	18	36	1	12:06:37 AM
+76	Defense	18	58	1	12:06:40 AM
+77	Pass	6	50	1	12:06:43 AM
+78	Spike	9	81	1	12:06:44 AM
+79	Spiked	9	47	1	12:06:45 AM
+80	Defense	4	13	1	12:06:50 AM
+81	Pass	6	57	1	12:06:51 AM
+82	Spike	18	73	1	12:06:53 AM
+83	Spiked	18	49	1	12:06:54 AM
+84	Ground		36	1	12:06:55 AM
+85	Ground		8	1	12:07:21 AM
+86	Defense	13	33	1	12:07:35 AM
+87	Spike	5	76	1	12:07:36 AM
+88	Spiked	5	48	1	12:07:37 AM
+89	Ground		Side Out 1	1	12:07:41 AM
+90	Defense	9	34	1	12:07:55 AM
+91	Pass	5	51	1	12:07:57 AM
+92	Spike	9	81	1	12:07:58 AM
+93	Spiked	9	34	1	12:07:59 AM
+94	Defense	6	31	1	12:08:03 AM
+95	Pass	13	16	1	12:08:06 AM
+96	Spike	18	73	1	12:08:08 AM
+97	Spiked	18	43	1	12:08:09 AM
+98	Served	5	32	1	12:08:29 AM
+99	Ground		Side Out 1	1	12:08:33 AM
+100	Defense	2	26	1	12:08:52 AM
+101	Pass	6	69	1	12:08:54 AM
+102	Spike	9	81	1	12:08:55 AM
+103	Spiked	9	Side Out 2	1	12:08:56 AM
+104	Defense	2	24	1	12:09:10 AM
+105	Defense	4	23	1	12:09:15 AM
+106	Pass	9	80	1	12:09:17 AM
+107	Spike	18	66	1	12:09:20 AM
+108	Spiked	18	50	1	12:09:20 AM
+109	Served	18	Side Out 3	1	12:09:45 AM
+110	Defense	13	32	1	12:10:05 AM
+111	Pass	6	77	1	12:10:06 AM
+112	Ground		75	1	12:10:07 AM
+113	Defense	18	39	1	12:10:28 AM
+114	Pass	6	76	1	12:10:29 AM
+115	Spike	2	80	1	12:10:31 AM
+116	Defense	13	62	1	12:10:31 AM
+117	Pass	6	57	1	12:10:34 AM
+118	Spike	9	74	1	12:10:35 AM
+119	Spiked	9	36	1	12:10:36 AM
+120	Defense	13	54	1	12:10:38 AM
+121	Spike	2	72	1	12:10:39 AM
+122	Spiked	2	61	1	12:10:40 AM
+123	Defense	6	70	1	12:10:46 AM
+124	Spike	9	76	1	12:10:48 AM
+125	Spiked	9	75	1	12:10:49 AM
+126	Defense	2	70	1	12:10:53 AM
+127	Pass	6	76	1	12:10:55 AM
+128	Spike	9	73	1	12:10:56 AM
+129	Spiked	9	Side Out 3	1	12:10:57 AM
+130	Served	9	33	1	12:11:15 AM
+131	Defense	6	77	1	12:11:21 AM
+132	Pass	2	Over/In Net	1	12:11:23 AM
+133	Defense	18	30	1	12:12:42 AM
+134	Pass	6	74	1	12:12:43 AM
+135	Spike	18	47	1	12:12:45 AM
+136	Spiked	18	21	1	12:12:46 AM
+137	Ground		75	1	12:12:50 AM
+138	Defense	9	38	1	12:13:07 AM
+139	Pass	6	50	1	12:13:08 AM
+140	Spike	4	53	1	12:13:10 AM
+141	Spiked	4	30	1	12:13:11 AM
+142	Defense	13	62	1	12:13:15 AM
+143	Pass	4	72	1	12:13:16 AM
+144	Defense	18	31	1	12:13:32 AM
+145	Pass		Side Out 2	1	12:13:33 AM
+146	Defense	9	29	1	12:13:48 AM
+147	Pass	6	75	1	12:13:50 AM
+148	Spike	2	73	1	12:13:51 AM
+149	Spiked	2	59	1	12:13:52 AM
+150	Defense	18	47	1	12:13:56 AM
+151	Spike	2	74	1	12:13:57 AM
+152	Spiked	2	53	1	12:13:58 AM
+153	Defense	9	32	1	12:14:02 AM
+154	Pass	6	75	1	12:14:03 AM
+155	Spike	2	65	1	12:14:04 AM
+156	Spiked	2	32	1	12:14:06 AM
+157	Defense	2	66	1	12:14:09 AM
+158	Pass		Side Out 1	1	12:14:10 AM
+159	Defense	13	32	1	12:14:27 AM
+160	Pass	6	57	1	12:14:29 AM
+161	Spike	4	80	1	12:14:30 AM
+162	Spiked	4	58	1	12:14:31 AM
+163	Defense	2	74	1	12:14:33 AM
+164	Pass	6	50	1	12:14:34 AM
+165	Spike	4	71	1	12:14:36 AM
+166	Spiked	4	39	1	12:14:38 AM
+167	Defense	6	80	1	12:14:42 AM
+168	Pass	13	53	1	12:14:43 AM
+169	Spike	2	74	1	12:14:45 AM
+170	Spiked	2	36	1	12:14:46 AM
+171	Defense	6	77	1	12:14:50 AM
+172	Pass	13	69	1	12:14:51 AM
+173	Spike	18	75	1	12:14:53 AM
+174	Spiked	18	19	1	12:14:54 AM
+175	Ground		75	1	12:14:58 AM
+176	Defense	9	28	1	12:15:19 AM
+177	Pass		Side Out 1	1	12:15:20 AM
+178	Defense	9	30	1	12:16:25 AM
+179	Ground		37	1	12:16:25 AM
+180	Defense	18	30	1	12:16:40 AM
+181	Pass	6	66	1	12:16:41 AM
+182	Spike	4	63	1	12:16:42 AM
+183	Spiked	4	65	1	12:16:43 AM
+184	Defense	9	18	1	12:16:44 AM
+185	Pass	6	75	1	12:16:46 AM
+186	Ground		77	1	12:16:47 AM
+187	Defense	18	38	1	12:17:02 AM
+188	Pass	6	59	1	12:17:04 AM
+189	Spike	2	74	1	12:17:06 AM
+190	Spiked	2	24	1	12:17:07 AM
+191	Defense	13	52	1	12:17:10 AM
+192	Defense	13	51	2	12:00:02 AM
+193	Pass	6	68	2	12:00:04 AM
+194	Spike	2	73	2	12:00:06 AM
+195	Spiked	2	41	2	12:00:07 AM
+196	Defense	13	31	2	12:00:11 AM
+197	Pass	6	67	2	12:00:12 AM
+198	Defense	2	57	2	12:00:25 AM
+199	Pass		Side Out 3	2	12:00:27 AM
+200	Served	6	34	3	12:00:08 AM
+201	Defense	4	51	3	12:00:12 AM
+202	Pass	6	66	3	12:00:13 AM
+203	Spike	2	65	3	12:00:14 AM
+204	Spiked	2	35	3	12:00:15 AM
+205	Defense	4	61	3	12:00:18 AM
+206	Pass	6	29	3	12:00:20 AM
+207	Spike	4	54	3	12:00:22 AM
+208	Spiked	4	50	3	12:00:23 AM
+209	Defense	13	41	3	12:00:27 AM
+210	Pass		Side Out 2	3	12:00:28 AM
+211	Defense	13	43	3	12:00:46 AM
+212	Pass	6	65	3	12:00:47 AM
+213	Spike	9	31	3	12:00:48 AM
+214	Spiked	9	Side Out 3	3	12:00:50 AM
+215	Defense	9	30	3	12:01:04 AM
+216	Pass	6	74	3	12:01:06 AM
+217	Ground		79	3	12:01:08 AM
+218	Defense	9	39	3	12:01:24 AM
+219	Pass	6	68	3	12:01:25 AM
+220	Spike	4	81	3	12:01:27 AM
+221	Served	2	24	3	12:01:43 AM
+222	Defense	9	50	3	12:01:48 AM
+223	Pass	6	65	3	12:01:49 AM
+224	Spike	18	64	3	12:01:50 AM
+225	Defense	2	81	3	12:01:52 AM
+226	Pass	6	50	3	12:01:53 AM
+227	Spike	4	53	3	12:01:55 AM
+228	Spiked	4	23	3	12:01:56 AM
+229	Defense	9	34	3	12:02:16 AM
+230	Pass	6	74	3	12:02:18 AM
+231	Spike	18	80	3	12:02:19 AM
+232	Spiked	18	48	3	12:20:20 AM
+233	Served	4	21	3	12:20:38 AM
+234	Defense	13	42	3	12:02:41 AM
+235	Ground		36	3	12:02:42 AM
+236	Defense	4	39	3	12:03:01 AM
+237	Pass	5	76	3	12:03:03 AM
+238	Spiked	5	66	3	12:03:03 AM
+239	Served	5	23	3	12:03:20 AM
+240	Ground		70	3	12:03:23 AM
+241	Defense	9	44	3	12:03:40 AM
+242	Pass	6	79	3	12:03:42 AM
+243	Served	18	Over/In Net	3	12:04:12 AM
+244	Defense	4	35	3	12:04:26 AM
+245	Pass	6	77	3	12:04:28 AM
+246	Spike	9	74	3	12:04:29 AM
+247	Served	9	25	3	12:04:53 AM
+248	Defense	5	30	3	12:04:57 AM
+249	Pass	6	78	3	12:04:58 AM
+250	Spike	2	75	3	12:05:00 AM
+251	Spiked	2	32	3	12:05:01 AM
+252	Defense	5	38	3	12:05:04 AM
+253	Pass	2	73	3	12:05:06 AM
+254	Spike	4	61	3	12:05:08 AM
+255	Spiked	4	35	3	12:05:09 AM
+256	Ground		18	3	12:05:13 AM
+257	Defense	9	38	3	12:05:35 AM
+258	Pass	6	59	3	12:05:37 AM
+259	Spike	2	Side Out 3	3	12:05:39 AM
+260	Spiked	2	77	3	12:05:40 AM
+261	Defense	9	41	3	12:05:42 AM
+262	Pass	6	77	3	12:05:43 AM
+263	Spike	4	81	3	12:05:45 AM
+264	Served	6	34	3	12:06:12 AM
+265	Defense	6	19	3	12:06:17 AM
+266	Pass	2	55	3	12:06:18 AM
+267	Spike	4	72	3	12:06:20 AM
+268	Spiked	4	23	3	12:06:21 AM
+269	Served	6	Side Out 3	3	12:06:48 AM
+270	Defense	9	38	3	12:07:03 AM
+271	Pass	6	58	3	12:07:05 AM
+272	Spike	4	81	3	12:07:07 AM
+273	Spiked	4	74	3	12:07:08 AM
+274	Defense	6	56	3	12:07:12 AM
+275	Pass	5	76	3	12:07:13 AM
+276	Spike	2	74	3	12:07:15 AM
+277	Spiked	2	45	3	12:07:16 AM
+278	Defense	6	40	3	12:07:19 AM
+279	Pass	5	58	3	12:07:21 AM
+280	Spike	2	74	3	12:07:23 AM
+281	Spiked	2	48	3	12:07:24 AM
+282	Defense	6	57	3	12:07:28 AM
+283	Pass	5	57	3	12:07:30 AM
+284	Served	2	33	3	12:08:01 AM
+285	Served	2	34	3	12:08:22 AM
+286	Served	2	23	3	12:08:41 AM
+287	Defense	18	44	3	12:08:59 AM
+288	Pass	5	42	3	12:09:01 AM
+289	Spike	18	72	3	12:09:02 AM
+290	Spiked	18	21	3	12:09:04 AM
+291	Defense	4	56	3	12:09:08 AM
+292	Pass	9	30	3	12:09:08 AM
+293	Spike	4	47	3	12:09:09 AM
+294	Defense	9	42	3	12:10:25 AM
+295	Pass	6	79	3	12:10:26 AM
+296	Spike	18	81	3	12:10:28 AM
+297	Served	4	77	3	12:10:48 AM
+298	Defense	4	10	3	12:10:53 AM
+299	Pass	6	Side Out 1	3	12:10:55 AM
+300	Spike	13	39	3	12:10:57 AM
+301	Spiked	13	20	3	12:10:58 AM
+302	Defense	4	31	3	12:11:01 AM
+303	Pass	6	76	3	12:11:03 AM
+304	Spike	13	44	3	12:11:04 AM
+305	Spiked	13	35	3	12:11:06 AM
+306	Ground		Side Out 1	3	12:11:11 AM
+307	Defense	9	53	3	12:11:35 AM
+308	Pass	13	43	3	12:11:37 AM
+309	Spike	9	63	3	12:11:38 AM
+310	Spiked	9	20	3	12:11:39 AM
+311	Defense	4	22	3	12:11:44 AM
+312	Pass	6	76	3	12:11:46 AM
+313	Spike	18	74	3	12:11:47 AM
+314	Spiked	18	40	3	12:11:48 AM
+315	Defense	9	42	3	12:12:16 AM
+316	Pass	5	66	3	12:12:17 AM
+317	Spike	18	73	3	12:12:19 AM
+318	Spiked	18	80	3	12:12:20 AM
+319	Served	5	22	3	12:12:42 AM
+320	Served	5	24	3	12:12:58 AM
+321	Defense	9	60	3	12:13:02 AM
+322	Pass	6	67	3	12:13:03 AM
+323	Spike	18	73	3	12:13:04 AM
+324	Defense	9	79	3	12:13:06 AM
+325	Pass	6	78	3	12:13:07 AM
+326	Spike	13	71	3	12:13:07 AM
+327	Spiked	13	41	3	12:13:09 AM
+328	Ground		76	3	12:13:14 AM
+329	Served	18	50	3	12:13:43 AM
+330	Served	18	40	3	12:14:05 AM
+331	Served	18	31	3	12:14:23 AM
+332	Served	18	22	3	12:15:26 AM
+333	Served	18	17	3	12:16:24 AM
+334	Served	18	30	3	12:16:41 AM
+335	Defense	18	50	3	12:16:45 AM
+336	Defense	5	33	3	12:16:52 AM
+337	Pass	6	77	3	12:16:53 AM
+338	Spike	9	81	3	12:16:54 AM
+339	Spiked	9	31	3	12:16:56 AM
+340	Defense	18	50	3	12:17:01 AM
+341	Pass	6	75	3	12:17:01 AM
+342	Spiked	6	57	3	12:17:02 AM
+343	Defense	18	39	3	12:17:04 AM
+344	Pass	6	76	3	12:17:06 AM
+345	Spike	2	74	3	12:17:07 AM
+346	Spiked	2	36	3	12:17:07 AM
+347	Served	18	23	4	12:00:57 AM
+348	Defense	18	41	4	12:01:02 AM
+349	Pass	6	76	4	12:01:03 AM
+350	Spike	9	80	4	12:01:05 AM
+351	Spiked	9	34	4	12:01:06 AM
+352	Served	18	20	4	12:01:37 AM
+353	Ground		8	4	12:01:45 AM
+354	Defense	4	35	4	12:02:01 AM
+355	Pass	6	58	4	12:02:02 AM
+356	Spike	2	81	4	12:02:04 AM
+357	Spiked	2	25	4	12:02:05 AM
+358	Ground		65	4	12:02:09 AM
+359	Defense	5	33	4	12:02:24 AM
+360	Pass	4	25	4	12:02:26 AM
+361	Spike	9	55	4	12:02:28 AM
+362	Spiked	9	43	4	12:02:29 AM
+363	Defense	5	57	4	12:02:32 AM
+364	Pass	6	67	4	12:02:33 AM
+365	Spike	9	66	4	12:02:34 AM
+366	Spiked	9	26	4	12:02:35 AM
+367	Served	9	23	4	12:03:00 AM
+368	Defense	6	74	4	12:03:04 AM
+369	Pass	2	73	4	12:03:04 AM
+370	Defense	9	30	4	12:03:55 AM
+371	Pass	6	77	4	12:03:56 AM
+372	Spike	4	80	4	12:03:58 AM
+373	Spiked	4	Side Out 1	4	12:03:59 AM
+374	Defense	9	39	4	12:04:21 AM
+375	Pass	6	68	4	12:04:22 AM
+376	Spike	2	75	4	12:04:23 AM
+377	Spiked	2	35	4	12:04:24 AM
+378	Served	6	22	4	12:04:55 AM
+379	Served	6	21	4	12:05:27 AM
+380	Defense	9	30	6	12:00:48 AM
+381	Pass	6	74	6	12:00:49 AM
+382	Defense	13	31	6	12:01:06 AM
+383	Pass	6	75	6	12:01:07 AM
+384	Spike	4	80	6	12:01:09 AM
+385	Spiked	4	75	6	12:01:10 AM
+386	Served	6	35	6	12:01:29 AM
+387	Defense	13	33	6	12:01:33 AM
+388	Pass	6	57	6	12:01:34 AM
+389	Spike	4	81	6	12:01:36 AM
+390	Ground		70	6	12:01:37 AM
+391	Defense	5	60	6	12:01:52 AM
+392	Pass	6	48	6	12:01:54 AM
+393	Spike	9	30	6	12:01:55 AM
+394	Spiked	9	30	6	12:01:57 AM
+395	Served	2	40	6	12:02:17 AM
+396	Defense	9	33	6	12:02:21 AM
+397	Spiked	9	64	6	12:02:23 AM
+398	Served	2	26	6	12:02:39 AM
+399	Defense	5	74	6	12:02:42 AM
+400	Pass	4	70	6	12:02:44 AM
+401	Spike	6	48	6	12:02:45 AM
+402	Spiked	6	41	6	12:02:47 AM
+403	Served	2	35	6	12:03:52 AM
+404	Defense	9	42	6	12:03:54 AM
+405	Pass	6	66	6	12:03:55 AM
+406	Spike	18	74	6	12:03:56 AM
+407	Served	2	38	6	12:04:14 AM
+408	Defense	6	29	6	12:04:17 AM
+409	Pass		Side Out 2	6	12:04:18 AM
+410	Defense	18	43	6	12:04:35 AM
+411	Pass	6	77	6	12:04:37 AM
+412	Spike	18	81	6	12:04:38 AM
+413	Spiked	18	38	6	12:04:39 AM
+414	Served	4	23	6	12:05:01 AM
+415	Defense	5	57	6	12:05:06 AM
+416	Pass	6	75	6	12:05:07 AM
+417	Spike	9	81	6	12:05:09 AM
+418	Served	4	42	6	12:05:30 AM
+419	Defense	4	12	6	12:05:34 AM
+420	Pass	6	75	6	12:05:35 AM
+421	Spike	5	76	6	12:05:37 AM
+422	Spiked	5	79	6	12:05:38 AM
+423	Served	4	33	6	12:06:12 AM
+424	Ground		11	6	12:06:16 AM
+425	Defense	13	42	6	12:06:32 AM
+426	Served	5	38	6	12:07:02 AM
+427	Defense	4	23	6	12:07:06 AM
+428	Pass	6	67	6	12:07:07 AM
+429	Spike	9	80	6	12:07:09 AM
+430	Defense	6	79	6	12:07:11 AM
+431	Spike	18	74	6	12:07:12 AM
+432	Spiked	18	42	6	12:07:14 AM
+433	Served	5	Side Out 2	6	12:07:40 AM
+434	Defense	4	30	6	12:07:57 AM
+435	Pass	6	69	6	12:07:58 AM
+436	Spike	18	74	6	12:07:59 AM
+437	Spiked	18	Side Out 2	6	12:08:01 AM
+438	Served	18	44	6	12:08:32 AM
+439	Defense	5	33	6	12:08:36 AM
+440	Pass	6	48	6	12:08:38 AM
+441	Spike	9	81	6	12:08:40 AM
+442	Spiked	9	57	6	12:08:40 AM
+443	Served	18	48	6	12:08:54 AM
+444	Defense	6	67	6	12:08:59 AM
+445	Pass	18	66	6	12:09:00 AM
+446	Spike	9	81	6	12:09:02 AM
+447	Spiked	9	69	6	12:09:03 AM
+448	Served	18	36	6	12:10:08 AM
+449	Defense	18	50	6	12:10:14 AM
+450	Pass	6	75	6	12:10:15 AM
+451	Spike	2	74	6	12:10:17 AM
+452	Defense	4	17	6	12:10:18 AM
+453	Pass		Side Out 3	6	12:10:20 AM
+454	Defense	4	24	6	12:10:41 AM
+455	Pass	6	75	6	12:10:42 AM
+456	Spike	2	81	6	12:10:44 AM
+457	Spiked	2	23	6	12:10:45 AM
+458	Defense	5	47	6	12:10:49 AM
+459	Pass	13	43	6	12:10:50 AM
+460	Spike	9	65	6	12:10:53 AM
+461	Spiked	9	58	6	12:10:54 AM
+462	Defense	5	58	6	12:10:55 AM
+463	Pass	6	77	6	12:10:57 AM
+464	Spike	9	74	6	12:10:58 AM
+465	Spiked	9	32	6	12:10:59 AM
+466	Ground		41	6	12:11:01 AM
+467	Defense	5	23	6	12:11:24 AM
+468	Defense	13	49	6	12:11:27 AM
+469	Pass	6	38	6	12:11:29 AM
+470	Spike	2	62	6	12:11:31 AM
+471	Spiked	2	31	6	12:11:33 AM
+472	Defense	13	41	6	12:11:36 AM
+473	Pass	2	45	6	12:11:38 AM
+474	Spike	9	56	6	12:11:40 AM
+475	Spiked	9	67	6	12:11:40 AM
+476	Defense	5	48	6	12:11:45 AM
+477	Pass	6	67	6	12:11:46 AM
+478	Spike	9	65	6	12:11:47 AM
+479	Spiked	9	62	6	12:11:48 AM
+480	Served	9	Side Out 2	6	12:12:07 AM
+481	Defense	13	39	6	12:12:20 AM
+482	Pass		Side Out 1	6	12:12:22 AM
+483	Served	6	26	6	12:13:00 AM
+484	Defense	9	24	6	12:13:04 AM
+485	Pass	6	57	6	12:13:06 AM
+486	Spike	9	81	6	12:13:08 AM
+487	Served	6	25	6	12:13:30 AM
+488	Defense	9	20	6	12:13:34 AM
+489	Pass	6	66	6	12:13:36 AM
+490	Spike	5	77	6	12:13:36 AM
+491	Ground		50	6	12:13:37 AM
+492	Defense	13	32	6	12:13:53 AM
+493	Pass	6	67	6	12:13:55 AM
+494	Spike	4	81	6	12:13:56 AM
+495	Defense	2	74	6	12:13:57 AM
+496	Pass	6	68	6	12:13:59 AM
+497	Spike	2	73	6	12:14:00 AM
+498	Spiked	2	31	6	12:14:01 AM
+499	Served	2	30	6	12:14:24 AM
+500	Ground		80	6	12:14:28 AM
+501	Defense	18	44	6	12:14:49 AM
+502	Ground		41	6	12:14:50 AM
+503	Defense	18	44	6	12:15:04 AM
+504	Pass	6	50	6	12:15:06 AM
+505	Spike	4	73	6	12:15:07 AM
+506	Spiked	4	31	6	12:15:08 AM
+507	Served	4	14	6	12:15:29 AM
+508	Defense	4	23	6	12:15:48 AM
+509	Pass	5	61	6	12:15:50 AM
+510	Spike	9	Side Out 3	6	12:15:51 AM
+511	Spiked	9	38	6	12:15:52 AM
+512	Defense	5	67	6	12:16:00 AM
+513	Pass	6	67	6	12:16:00 AM
+514	Spike	9	80	6	12:16:03 AM
+515	Spiked	9	47	6	12:16:03 AM
+516	Served	5	32	6	12:16:24 AM
+517	Defense	5	47	6	12:16:26 AM
+518	Pass	6	66	6	12:16:28 AM
+519	Spike	18	74	6	12:16:29 AM
+520	Spiked	18	22	6	12:16:30 AM
+521	Ground		13	6	12:16:35 AM
+522	Ground		5	6	12:16:52 AM
+523	Defense	4	22	7	12:00:40 AM
+524	Pass	6	78	7	12:00:42 AM
+525	Spiked	6	44	7	12:00:43 AM
+526	Defense	13	42	7	12:00:46 AM
+527	Pass	6	78	7	12:00:48 AM
+528	Spike	9	Side Out 3	7	12:00:49 AM
+529	Defense	4	31	7	12:01:04 AM
+530	Pass	6	68	7	12:01:05 AM
+531	Spike	9	71	7	12:01:07 AM
+532	Spiked	9	35	7	12:01:08 AM
+533	Defense	18	48	7	12:01:12 AM
+534	Pass	6	66	7	12:01:14 AM
+535	Spike	9	81	7	12:01:15 AM
+536	Spiked	9	20	7	12:01:16 AM
+537	Served	18	Over/In Net	7	12:01:36 AM
+538	Defense	5	23	7	12:01:56 AM
+539	Pass	6	75	7	12:01:58 AM
+540	Spiked	6	41	7	12:01:59 AM
+541	Defense	4	65	7	12:02:02 AM
+542	Pass	6	66	7	12:02:03 AM
+543	Spike	4	74	7	12:02:04 AM
+544	Defense	13	31	7	12:02:30 AM
+545	Pass	6	50	7	12:02:31 AM
+546	Spike	2	80	7	12:02:33 AM
+547	Spiked	2	64	7	12:02:34 AM
+548	Defense	5	29	7	12:02:38 AM
+549	Pass	6	66	7	12:02:40 AM
+550	Spike	2	81	7	12:02:41 AM
+551	Spiked	2	12	7	12:02:42 AM
+552	Served	9	39	7	12:03:09 AM
+553	Defense	13	40	7	12:03:17 AM
+554	Ground		74	7	12:03:19 AM
+555	Defense	13	31	7	12:03:46 AM
+556	Pass	9	12	7	12:03:49 AM
+557	Spike	4	Side Out 3	7	12:03:50 AM
+558	Spiked	4	60	7	12:03:52 AM
+559	Defense	9	24	7	12:03:54 AM
+560	Pass	6	77	7	12:03:55 AM
+561	Spike	4	81	7	12:03:57 AM
+562	Spiked	4	21	7	12:03:58 AM
+563	Defense	13	49	7	12:04:02 AM
+564	Defense	13	31	7	12:05:21 AM
+565	Pass	6	74	7	12:05:23 AM
+566	Spike	4	80	7	12:05:24 AM
+567	Spiked	4	56	7	12:05:25 AM
+568	Defense	2	65	7	12:05:30 AM
+569	Pass	6	75	7	12:05:31 AM
+570	Spike	4	81	7	12:05:33 AM
+571	Spiked	4	21	7	12:05:35 AM
+572	Served	6	24	7	12:05:58 AM
+573	Defense	4	61	7	12:06:01 AM
+574	Pass	13	50	7	12:06:02 AM
+575	Spiked	13	58	7	12:06:04 AM
+576	Served	6	33	7	12:06:26 AM
+577	Defense	6	57	7	12:06:30 AM
+578	Pass	5	75	7	12:06:31 AM
+579	Spike	9	32	7	12:06:34 AM
+580	Spiked	9	59	7	12:06:34 AM
+581	Ground		62	7	12:06:38 AM
+582	Defense	9	31	7	12:07:00 AM
+583	Pass	4	Side Out 3	7	12:07:02 AM
+584	Spike	2	55	7	12:07:04 AM
+585	Spiked	2	22	7	12:07:06 AM
+586	Ground		8	7	12:07:09 AM
+587	Defense	13	14	7	12:07:25 AM
+588	Pass	5	51	7	12:07:27 AM
+589	Spike	2	73	7	12:07:29 AM
+590	Spiked	2	40	7	12:07:30 AM
+591	Defense	9	20	7	12:07:34 AM
+592	Pass	6	47	7	12:07:35 AM
+593	Spike	4	81	7	12:07:37 AM
+594	Defense	13	40	7	12:08:00 AM
+595	Pass	6	75	7	12:08:02 AM
+596	Spike	5	76	7	12:08:03 AM
+597	Spiked	5	56	7	12:08:04 AM
+598	Served	2	33	7	12:08:31 AM
+599	Ground		5	7	12:08:35 AM
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					

@@ -1,0 +1,8 @@
+0	00000.mts	Start
+1	00001.mts	Set 1
+2	00002.mts	Set 1
+3	00003.mts	Set 2
+4	00004.mts	Set 2
+5	00005.mts	Break
+6	00006.mts	Set 3
+7	00007.mts	Set 3

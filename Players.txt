@@ -1,0 +1,12 @@
+1	Thomas 	Geers	Opposite
+2	Jelle	Vangheluwe	Wing Spiker
+4	Alexander	Cauwe	Wing Spiker
+5	Jarne	Del'Haye	Middle Spiker
+6	Robin	Stragier	Middle Spiker
+9	Martijn	Denys	Wing Spiker
+11	 Thomas	Regemortels	Opposite
+13	Thibe	Derycke	Libero
+15	Pieter	Strubbe	Setter
+17	Dimi	Catrysse	Wing Spiker
+18	Robbe	Derycke	Wing Spiker
+19	Robbie	Catrysse	Opposite
